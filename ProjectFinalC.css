@@ -1,0 +1,147 @@
+body{
+    background-image: linear-gradient(to bottom left ,gray, ivory,gray);
+}
+.d1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+.d11{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    background-image: url(https://static2.tripoto.com/media/filter/tst/img/454585/TripDocument/1511249754_fullsizerender_2.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    box-shadow: 0 0 6000px rgba(0,0,0) inset;
+    
+}
+.d2{
+    margin-left: auto;
+    margin-right: auto;
+    margin: 40px;
+    width: 95%;
+    border: 1px solid rgb(37, 230, 156);
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom,yellow,lightyellow);
+    text-align: center;
+    box-shadow: 0 0 5px brown;
+}                                                                                             
+.d3{                                                                          
+    background-color:black;
+    color: white;
+    padding: 50px;
+    box-shadow: 0 0 5px black;
+}
+h1{
+    text-align: center;
+    color: yellow;
+   
+}
+h3{
+    font-size: larger;
+    text-align: center;
+    color: aliceblue;
+}
+.login{
+    border: 1px solid rgba(1, 1, 1, 0.926);
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px 8px;
+    
+}
+.ppic{
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px 8px;
+}
+marquee{
+    font-size: larger;
+    font-family: sans-serif;
+    width: 95%;
+    padding: 5px;
+    margin:10px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom,ivory,rgb(248, 248, 176));
+}
+form{
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    
+}
+table,tr,th{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    padding: 10px;
+    width: 500px;
+}
+.but{
+    background-image: linear-gradient(to top,aqua,lawngreen);
+    color:darkslateblue;
+    font-size: large;
+    font-style:italic;
+    padding: 10px 20px;
+    border: 1px solid green ;
+    border-radius: 20px;
+    transform: translateY(50%);
+}
+.but:hover{
+    background-image: linear-gradient(to top,aquamarine,white);
+    color:rgb(20, 2, 138);
+    padding: 11px 21px;
+}
+select{
+    border: 1px solid rgb(9, 9, 10);
+    background-color:lavender;
+    border-radius: 25px;
+    box-shadow: 0 0 5px rgb(131, 131, 246) inset ;
+    padding: 10px 40px;
+}
+select:hover{
+    background-color:beige;
+}
+.bdisp{
+    background-image: linear-gradient(to top,aquamarine,white);
+    border: 1px solid green;
+    border-radius: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 5px;
+    transform:translateY(-15%);
+
+}
+.choseBut{
+    background-color: aliceblue;
+    color:cornflowerblue;
+    box-shadow: 0 0 2px blue;
+    font-size: large;
+    border: 1px solid blue;
+    border-radius: 20px;
+    width: 5%;
+    float: right;
+    padding: 5px;
+    margin: 5px;
+    transform: translateY(-200%);
+}
+.choseBut:hover{
+    background-color: aqua;
+    color: blue;
+}
+.image{
+    width:500px;
+    height: 500px;
+}
